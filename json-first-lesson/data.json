@@ -1,0 +1,10 @@
+{
+    "name" : "Talha",
+    "lastname" : "khan",
+    "zip" : 75500,
+    "phone"     :  300034,
+    "city": "karachi",
+    "province":"sindh",
+    "country" :"pakistan",
+    "ethinicity":"southasian"
+    }
